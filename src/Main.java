@@ -1,4 +1,4 @@
-import RMI.GestStationsImpl;
+import GestStations.GestStationsImpl;
 import java.rmi.Naming;
 import java.rmi.registry.*;
 
